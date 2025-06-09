@@ -1,2 +1,0 @@
-This is the first file in this directory
-These changes are made from github directly
